@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>down1.png</file>
+    <file>down2.jpg</file>
+  </qresource>
+</RCC>
